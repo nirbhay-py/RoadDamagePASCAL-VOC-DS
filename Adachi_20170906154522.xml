@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Adachi_20170906154522.jpg</filename>
+	<path>/Users/nirbhaysingh/Desktop/objectDetection/images/Adachi_20170906154522.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>221</xmin>
+			<ymin>401</ymin>
+			<xmax>322</xmax>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+</annotation>
